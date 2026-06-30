@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatt</h1>
 <h3 align="left">Hlo! aku Al Fath pemula dan masih perlu banyak belajar</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatt-dev" alt="fatt-dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

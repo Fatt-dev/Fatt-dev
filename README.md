@@ -102,9 +102,5 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 </p>
 
 <div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    alt="Bottom Line"
-    width="100%"
-  />
+<img width="739" height="415" alt="bbfade6e8fea98095a9c77ea7fadb478" src="https://github.com/user-attachments/assets/3cdc1016-ef1f-4332-b3cc-7a786b673518" />
 </div>

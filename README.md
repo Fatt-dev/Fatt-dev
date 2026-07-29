@@ -7,7 +7,8 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="<img width="640" height="360" alt="ce70fff209ec669dea8e0eeb119f4534" src="https://github.com/user-attachments/assets/b0062f10-4cca-43fd-81f7-04656f5b390e" />
+" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Hello, my name is Alfath Miftahurrizky. Most people call me Fath but i would love it if you call me Al. I am an college student in Universitas Jenderal Soedirman, Indonesia. I am craving alot about technology especially AI. Sooner or later i would be part of world big changes.

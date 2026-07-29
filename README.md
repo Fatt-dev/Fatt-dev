@@ -95,12 +95,14 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 > start zero
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
-    alt="Space shooter contribution graph"
-  />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/eafba54f-d558-4e55-a8b2-98a30c522908" />
+
 </p>
 
 <div align="center">
-<img width="1200" height="397" alt="4e89249fe66b55c0d5d0f045eb02675b" src="https://github.com/user-attachments/assets/3870ca36-634b-4182-a8b0-839cd4a541aa" />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Bottom Line"
+    width="100%"
+  />
 </div>

@@ -1,3 +1,5 @@
+<img width="640" height="360" alt="ce70fff209ec669dea8e0eeb119f4534" src="https://github.com/user-attachments/assets/315d4c71-b1b7-4f85-813f-df5e1368c0f1" />
+
 <h1 align="center">Hey I'm Fatt</h1>
 <h3 align="center">College Student at Purwokerto</h3>
 

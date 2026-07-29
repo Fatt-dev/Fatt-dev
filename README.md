@@ -33,16 +33,15 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 <p align="center">
   <a href="https://github.com/Fatt-dev">
     <img
-      height="180em"
+      height="180"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fatt-dev&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10"
       alt="Fatt-dev's GitHub Stats"
     />
   </a>
-
   <img
+    height="180"
     src="https://streak-stats.demolab.com/?user=Fatt-dev&theme=dracula&hide_border=true&cache_seconds=86400"
     alt="Fatt-dev's GitHub Streak"
-    width="49%"
   />
 </p>
 
@@ -55,7 +54,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 
 <p align="center">
   <img
-    height="280em"
+    height="280"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Fatt-dev&theme=dracula&radius=10"
     alt="Fatt-dev's Activity Graph"
   />
@@ -68,7 +67,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 <p align="center">
   <a href="https://github.com/Fatt-dev">
     <img
-      height="180em"
+      height="180"
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatt-dev&langs_count=8&layout=compact&theme=dracula&border_radius=10"
       alt="Top Languages"
     />

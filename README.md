@@ -1,5 +1,4 @@
-<h1 align="center">Hey <img src=<img width="256" height="256" alt="p143f157" src="https://github.com/user-attachments/assets/60776209-a7a4-46aa-bcb2-22d8b3914228" />
- height="30px" width="30px"> I'm Fatt</h1>
+<h1 align="center">Hey I'm Fatt</h1>
 <h3 align="center">College Student at Purwokerto</h3>
 
 <p align="center">

@@ -95,8 +95,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 > start zero
 
 <p align="center">
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/eafba54f-d558-4e55-a8b2-98a30c522908" />
-
+<img width="1200" height="675" alt="8c569d57f071aadc9800e79cdadcb5b5" src="https://github.com/user-attachments/assets/abb5c11c-4b1a-4c34-a168-8292395fa396" />
 </p>
 
 <div align="center">

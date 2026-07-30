@@ -22,13 +22,13 @@
 
 ---
 
-<h2 align="center">📌 About Me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I would love it if you called me Al. I am a college student at **Universitas Jenderal Soedirman, Indonesia**. I am passionate about technology, especially AI. Sooner or later, I believe I will be part of the great changes happening in our world.
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 
 <p align="center">
   <a href="https://github.com/Fatt-dev">
@@ -62,7 +62,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <a href="https://github.com/Fatt-dev">
@@ -76,7 +76,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://fatt-dev.github.io/fatt_profile/">

@@ -22,7 +22,7 @@
 
 ---
 
-<p align = center>**📌 About Me**</p>
+<p align="center"><b>📌 About Me</b></p>
 
 Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I would love it if you called me Al. I am a college student at **Universitas Jenderal Soedirman, Indonesia**. I am passionate about technology, especially AI. Sooner or later, I believe I will be part of the great changes happening in our world.
 

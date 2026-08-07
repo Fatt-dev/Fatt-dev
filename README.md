@@ -80,7 +80,7 @@ Hello, my name is **Alfath Miftahurrizky**. Most people call me Fath, but I woul
 ## Connect with Me
 
 <p align="center">
-  <a href="https://fatt-dev.github.io/fatt_profile/">
+  <a href="https://fatt.my.id/">
     <img
       src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg"
       alt="Website"
